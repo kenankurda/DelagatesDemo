@@ -41,7 +41,7 @@ namespace DelagatesSimple
             Func<string, string> sayHello = SayHello;
             string sayHelloresult = sayHello("Hello");
 
-            //GreetingsDelegate sayHello = new GreetingsDelegate(SayHello);
+            //GreetingsDelegate sayHello = new GreetingsDelegate(SayHello); 
             //string sayHelloresult = sayHello("Hello");
             Console.WriteLine(sayHelloresult);
 
