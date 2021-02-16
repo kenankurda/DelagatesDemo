@@ -12,7 +12,7 @@ namespace DelagatesSimple
     {
         static void Main(string[] args)
         {
-
+            //
             //AddDelegate addDelegate = new AddDelegate(AddNumbers);
             //addDelegate(3, 2);
             //addDelegate.Invoke(3, 2);
